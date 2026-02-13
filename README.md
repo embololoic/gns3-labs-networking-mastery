@@ -16,8 +16,4 @@ OSI Network Labs on GNS3 + Wireshark : Series of practical labs on the OSI model
 🟡 **CCNP** : IOSv 15.9 + vEdge images  
 🔴 **CCIE** : GNS3 Pro + 32GB RAM  
 
-## 🚀 **Quickstart**
-```bash
-git clone https://github.com/embololoic/gns3-labs-networking-mastery
-cd beginner/
-./launch-lab.sh  # Bientôt !
+
