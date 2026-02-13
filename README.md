@@ -19,6 +19,8 @@ OSI Network Labs on GNS3 + Wireshark : Series of practical labs on the OSI model
 
 ## 📁 **Complete Project Directory Structure** 
 
+---
+
 gns3-labs-networking-mastery/
 │
 ├── README.md                           # Portfolio landing page
