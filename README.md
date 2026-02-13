@@ -11,7 +11,7 @@ OSI Network Labs on GNS3 + Wireshark : Series of practical labs on the OSI model
 
 
 
-## 📋 **Prérequis**
+## 📋 **prerequisites**
 🟢 **Beginner** : GNS3 + Wireshark  
 🟡 **CCNP** : IOSv 15.9 + vEdge images  
 🔴 **CCIE** : GNS3 Pro + 32GB RAM  
