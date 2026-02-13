@@ -9,7 +9,7 @@ OSI Network Labs on GNS3 + Wireshark : Series of practical labs on the OSI model
 ## 🎖️ **40+ Labs **
 **SD-WAN • BGP • MPLS • EVPN • Automation**
 
-![Roadmap Coming](https://via.placeholder.com/800x200/0f4c75/ffffff?text=ROADMAP+CCNA%2FCCNP%2FCCIE)
+
 
 ## 📋 **Prérequis**
 🟢 **Beginner** : GNS3 + Wireshark  
