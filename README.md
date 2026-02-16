@@ -22,7 +22,6 @@ OSI Network Labs on GNS3 + Wireshark : Series of practical labs on the OSI model
 gns3-labs-networking-mastery/
 |
 |-- README.md                           # Portfolio landing page
-|-- ROADMAP.md                          # CCNA→CCNP→CCIE progression
 |-- LICENSE                             # MIT License (auto-generated)
 |-- .gitignore                          # Python template (auto)
 |
