@@ -73,13 +73,13 @@ Misconfiguration: **PC-VLAN200 switchport not configured as an access port in VL
 ### 5.2 Expected symptoms
 From PC2-VLAN200 (10.0.2.11):
 - `ping 10.0.2.10` fails
-<img width="742" height="311" alt="image" src="https://github.com/user-attachments/assets/4916c30a-4cf1-4647-b6d2-c2a406fbf23e" />
+- <img width="742" height="311" alt="image" src="https://github.com/user-attachments/assets/4916c30a-4cf1-4647-b6d2-c2a406fbf23e" />
 - `ping 10.0.3.10` fails
-  <img width="399" height="87" alt="image" src="https://github.com/user-attachments/assets/8a34a22e-cdca-4a5b-9330-5de5ba3b9b43" />
+-   <img width="399" height="87" alt="image" src="https://github.com/user-attachments/assets/8a34a22e-cdca-4a5b-9330-5de5ba3b9b43" />
 - `ping 10.0.4.10` fails
-  <img width="425" height="82" alt="image" src="https://github.com/user-attachments/assets/42964f47-d9c8-482c-8be1-4dbce7a5c05e" />
+- <img width="425" height="82" alt="image" src="https://github.com/user-attachments/assets/42964f47-d9c8-482c-8be1-4dbce7a5c05e" />
 - `ping 10.0.2.1` (gateway) may fail depending on the exact port state/VLAN membership
-  <img width="430" height="92" alt="image" src="https://github.com/user-attachments/assets/4028a128-2e1b-468a-bb84-b0374fa5d0f8" />
+- <img width="430" height="92" alt="image" src="https://github.com/user-attachments/assets/4028a128-2e1b-468a-bb84-b0374fa5d0f8" />
 - ARP table incomplete or incorrect
 
 ### 5.3 Evidence to collect (for the report)
