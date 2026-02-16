@@ -1,7 +1,7 @@
 
-## TP01 
 
-```markdown
+
+```
 # TP01 — VLAN Segmentation + Inter-VLAN Routing (RoAS) + Apache Server (Debian)
 
 ## 1) Scope
@@ -35,7 +35,9 @@ Devices:
 - PC-VLAN400: Debian
 - SERVER: Debian (Apache)
 ```
+
  <img width="1305" height="696" alt="Capture d&#39;écran 2026-02-16 104951" src="https://github.com/user-attachments/assets/f92b3aa2-a9d2-4141-a23a-538151c414d5" />
+ 
 ```
 Links:
 - SW Gi0/0 <-> R1 Gi4/0 (802.1Q trunk)
