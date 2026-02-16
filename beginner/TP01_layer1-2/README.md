@@ -125,8 +125,11 @@ end
 From PC2-VLAN200:
 ```bash
 ping -c 3 10.0.2.10
+```
 <img width="507" height="160" alt="image" src="https://github.com/user-attachments/assets/709f55e6-3991-4539-a606-d4fb79abb54a" />
+```
 ping -c 3 10.0.2.1 (ping between R1 and pc1 of vlan 200)
+```
 <img width="875" height="98" alt="image" src="https://github.com/user-attachments/assets/f256cc9b-8d51-4ebf-b6fd-06d2dbc3af5c" />
 <img width="728" height="152" alt="image" src="https://github.com/user-attachments/assets/f9d165e0-b6cd-4a7f-80ce-7ea074871d93" />
 
