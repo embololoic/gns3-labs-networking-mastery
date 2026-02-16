@@ -62,7 +62,6 @@ Host IPs (example):
 - PC-VLAN300: 10.0.3.10/24, GW 10.0.3.1
 - PC-VLAN400: 10.0.4.10/24, GW 10.0.4.1
 ```
-
 ## 5) Intentional Failure Scenario (Designed Outage)
 
 ### 5.1 Change request (intentional)
@@ -89,7 +88,6 @@ show vlan brief
 show interfaces gi0/1 switchport     ! replace with the port where PC-VLAN200 is connected
 show mac address-table vlan 200
 ```
-
 On PC2-VLAN200:
 ```bash
 ip addr show ens4
@@ -120,7 +118,6 @@ interface gi0/1              ! replace with PC-VLAN200 port
  no shutdown
 end
 ```
-
 ### 5.6 Post-fix validation
 From PC2-VLAN200:
 ```bash
@@ -132,7 +129,6 @@ ping -c 3 10.0.2.1 (ping between R1 and pc1 of vlan 200)
 ```
 <img width="875" height="98" alt="image" src="https://github.com/user-attachments/assets/f256cc9b-8d51-4ebf-b6fd-06d2dbc3af5c" />
 <img width="728" height="152" alt="image" src="https://github.com/user-attachments/assets/f9d165e0-b6cd-4a7f-80ce-7ea074871d93" />
-
 ```
 ## 7) Acceptance Tests (Definition of Done)
 - SW trunk to R1 is up and carries VLANs 99/200/300/400
