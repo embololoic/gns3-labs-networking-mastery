@@ -166,4 +166,4 @@ ping -c 3 10.0.2.1
 - Each PC can ping its default gateway
 - Inter-VLAN ping works (200 <-> 300 <-> 400)
 - All PCs can reach Apache on `http://10.0.99.2`
-- Evidence captured: show commands + at least 2 Wireshark screenshots (failure + after fix)
+
