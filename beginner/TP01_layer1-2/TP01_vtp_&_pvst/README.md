@@ -128,19 +128,19 @@ interface gi0/0.99
 
 interface gi0/0.100
  encapsulation dot1Q 100
- ip address **10.0.1.1** 255.255.255.0
+ ip address 10.0.1.1 255.255.255.0
 
 interface gi0/0.200
  encapsulation dot1Q 200
- ip address **10.0.2.1** 255.255.255.0
+ ip address 10.0.2.1 255.255.255.0
 
 interface gi0/0.300
  encapsulation dot1Q 300
- ip address **10.0.3.1** 255.255.255.0
+ ip address 10.0.3.1 255.255.255.0
 
 interface gi0/0.400
  encapsulation dot1Q 400
- ip address **10.0.4.1** 255.255.255.0
+ ip address 10.0.4.1 255.255.255.0
 ```
 
 ### 5. Management SVIs
