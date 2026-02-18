@@ -229,5 +229,3 @@ interface range gi0/0-1
 ! VXLAN/EVPN for DC overlay (replaces STP)
 ```
 
-**Sources**: Cisco Campus Design, STP Best Practices. [community.cisco](https://community.cisco.com/t5/networking-knowledge-base/frequent-cdp-4-nvlanmismatch-or-cdp-4-native-vlan-mismatch/ta-p/3130899)
-
